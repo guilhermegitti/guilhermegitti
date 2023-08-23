@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>| Desenvolvedor Back-End | </b>
+<b>| Analista de Dados | </b>
 </div>
 
 ---
@@ -14,11 +14,11 @@
     </a>
 </div>
 
-Me chamo [**Guilherme Gitti**](https://twitter.com/guilhermegitti), sou de São Caetano do Sul-SP e atualmente estou me aprofundando sobre o ecossistema Java e Arquitetura de Software.
+Me chamo [**Guilherme Gitti**](https://twitter.com/guilhermegitti), sou de São Caetano do Sul-SP e atualmente trabalho como Analista de Dados.
 
-Possuo conhecimentos sobre Spring Boot, RESTful API's, banco de dados relacional e não relacional, testes automatizados com TDD e boas práticas de desenvolvimento como solid e design patterns.
+No dia a dia trabalho nas etapas de coleta, transformação e armazenamento de dados, utilizando técnicas para garantir performance e segurança, com o objetivo de torná-los úteis e acessíveis para a tomada de decisões empresariais.
 
-Venho aprimorando meus conhecimentos sobre microsserviços e mensageria.
+Possuo experiência no uso da plataforma Databricks para realizar manipulações e tratamento de dados, tanto com Python quanto com SQL, além de criar e executar processos automatizados. Para gerenciar e manipular tabelas tenho conhecimento no BigQuery e MySQL.
 
 ---
 
