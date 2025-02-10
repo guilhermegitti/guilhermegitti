@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>| Analista de Dados | </b>
+<b>| Cientista de Dados | </b>
 </div>
 
 ---
@@ -14,17 +14,16 @@
     </a>
 </div>
 
-Me chamo [**Guilherme Gitti**](https://twitter.com/guilhermegitti), sou de São Caetano do Sul-SP e atualmente trabalho como Analista de Dados.
+Me chamo [**Guilherme Gitti**](https://www.linkedin.com/in/guilherme-gitti/) e sou de São Caetano do Sul-SP.
 
-No dia a dia trabalho nas etapas de coleta, transformação e armazenamento de dados, utilizando técnicas para garantir performance e segurança, com o objetivo de torná-los úteis e acessíveis para a tomada de decisões empresariais.
+Cientista de dados com experiência no ciclo de desenvolvimento de modelos de machine learning, utilizando modelagem de dados, análise exploratória, testes estatísticos e experimentos para avaliação de desempenho de algoritmos, junto com a criação de monitoramentos para acompanhar a performance dos modelos desenvolvidos.  
 
-Possuo experiência no uso da plataforma Databricks para realizar manipulações e tratamento de dados, tanto com Python quanto com SQL, além de criar e executar processos automatizados. Para gerenciar e manipular tabelas tenho conhecimento no BigQuery e MySQL.
+Utilização de análises para gerar insights a fim de agregar valor, ajudar em decisões importantes e novas oportunidades de ação. Criatividade para solucionar problemas e pensar em cenários diversos.
 
 ---
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/guilhermegitti)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gitti/)
 
 </div>
